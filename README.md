@@ -1,4 +1,4 @@
-[유데미, 스나이퍼팩토리, 프로젝트 캠프, Next.js 2기]
+**[유데미, 스나이퍼팩토리, 프로젝트 캠프, Next.js 2기]**
 
 
 ![NextJS_2기_표지](https://github.com/user-attachments/assets/f8d8f691-9983-4022-8414-4ab29e814870)
