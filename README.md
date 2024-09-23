@@ -21,11 +21,6 @@
 - **JavaScript (ES6+)**
 - **Git & GitHub**
 
-## 강사 정보
-
-- **강사**: sucoding
-- **이메일**: suyacode@gmail.com
-
 
 
 
